@@ -1,5 +1,5 @@
 # MIPS-ASSEMBLY-PROJECT
-#Caesar Cipher Encryption/Decryption Program
+# Caesar Cipher Encryption/Decryption Program
 
 This program is a simple encryption/decryption algorithm based on the Caesar cipher algorithm for English-based text messages. It is written in MIPS assembly language and designed to read and write to text files.
 
